@@ -147,12 +147,12 @@ USA,North America,36,-108,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.6
 USA,North America,36,-108,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.6,Ma,-69.05,-72.1,-66,Kirtland Fm.,FFRNA San Juan Basin NM,Laramidia,mineralized,Davies Vollum et al,2011,10.2110/palo.2010.p10-090r
 USA,North America,33,-107,NA,Metcalfeoxylon kirtlandense,undetermined,Dicot,Angiosperm,0.75,Ca,-77.85,-83.6,-72.1,Crevasse Canyon,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
 USA,North America,33,-107,NA,Metcalfeoxylon kirtlandense,undetermined,Dicot,Angiosperm,0.4,Ca,-77.85,-83.6,-72.1,Crevasse Canyon,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
-USA,North America,33,-107,NA,Baasia armendarisense,undetermined,Dicot,Angiosperm,0.14,Ma,-77.85,-83.6,-72.1,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
-USA,North America,33,-107,NA,Fulleroxylon armendarisense,undetermined,Dicot,Angiosperm,0.045,Ma,-77.85,-83.6,-72.1,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
-USA,North America,33,-107,NA,Pygmaeoxylon paucipora,undetermined,Dicot,Angiosperm,0.025,Ma,-77.85,-83.6,-72.1,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
+USA,North America,33,-107,NA,Baasia armendarisense,undetermined,Dicot,Angiosperm,0.14,Ma,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
+USA,North America,33,-107,NA,Fulleroxylon armendarisense,undetermined,Dicot,Angiosperm,0.045,Ma,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
+USA,North America,33,-107,NA,Pygmaeoxylon paucipora,undetermined,Dicot,Angiosperm,0.025,Ma,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
 USA,North America,33,-107,NA,Metcalfeoxylon kirtlandense,undetermined,Dicot,Angiosperm,0.4,Ca,-77.85,-83.6,-72.1,Crevasse Canyon,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
 USA,North America,33,-107,NA,Paraphyllanthoxylon anasazi,undetermined,Dicot,Angiosperm,0.14,Ca,-77.85,-83.6,-72.1,Crevasse Canyon,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
-USA,North America,33,-107,NA,Platanoxylon sp.,undetermined,Dicot,Angiosperm,0.06,Ma,-77.85,-83.6,-72.1,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
+USA,North America,33,-107,NA,Platanoxylon sp.,undetermined,Dicot,Angiosperm,0.06,Ma,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Estrada-Ruiz et al,2012,10.1086/664714
 Mexico,North America,27,-101,NA,Olmosoxylon upchurchii,Lauraceae,Dicot,Angiosperm,0.06,Ca-Ma,-72.1,-83.6,-66,Olmos Fm.,6 km W of Melchor M√èzquiz town M√èzquiz Municipality,Laramidia,mineralized,Estrada-Ruiz et al,2010,10.3732/ajb.0900234
 Mexico,North America,27,-101,NA,Muzquizoxylon porrasii,Cornaceae,Dicot,Angiosperm,0.085,Ca-Ma,-72.1,-83.6,-66,Olmos Fm.,6 km W of Melchor M√èzquiz town M√èzquiz Municipality,Laramidia,mineralized,Estrada-Ruiz et al,2010,10.3732/ajb.0900234
 Mexico,North America,27,-101,NA,Muzquizoxylon porrasii,Cornaceae,Dicot,Angiosperm,0.07,Ca-Ma,-72.1,-83.6,-66,Olmos Fm.,6 km W of Melchor M√èzquiz town M√èzquiz Municipality,Laramidia,mineralized,Estrada-Ruiz et al,2010,10.3732/ajb.0900234
@@ -267,7 +267,7 @@ USA,North America,37,-121,NA,Tetracentronites panochetris,Winteraceae?,Dicot,Ang
 USA,North America,37,-121,NA,Plataninium platanoides,Platanaceae?,Dicot,Angiosperm,0.045,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1968,
 USA,North America,37,-121,NA,Plataninium californicum,Platanaceae?,Dicot,Angiosperm,0.06,Ma,-69.05,-72.1,-66,Panoche Fm.,Locality 2a. Black Gulch Page Locality 1. Del Puerto Canyon Stanislaus,Laramidia,mineralized,Page,1968,
 USA,North America,39,-120,NA,Ulminium pattersonensis,Lauraceaae,Dicot,Angiosperm,0.02,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1967,
-USA,North America,34,-107,NA, Paraphyllanthoxylon sp.,undetermined,Dicot,Angiosperm,2,Ca,-74,-83.6,-72.1,McRae,NM,Laramidia,mineralized,Parrott et al,2013,
+USA,North America,34,-107,NA, Paraphyllanthoxylon sp.,undetermined,Dicot,Angiosperm,2,Ca,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Parrott et al,2013,
 Mexico,North America,32,-101,NA,Paraphyllanthoxylon sp.,undetermined,Dicot,Angiosperm,0.3,Ma,-77.85,-83.6,-72.1,NA,NA,Laramidia,mineralized,Peralta-Medina and Falcon-Lang,2012,10.1130/G32733.1
 Canada,North America,NA,NA,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.1,Ca-Ma,-72.1,-83.6,-66,NA,NHM London,Elsewhere,mineralized,Peralta-Medina and Falcon-Lang,2012,10.1130/G32733.1
 USA,North America,37,-104,NA,Platanus sp.,Platanaceae?,Dicot,Angiosperm,0.01,LK,-72,NA,NA,Vermejo Fm.,Trinidad Colorado,Laramidia,NA,Peralta-Medina and Falcon-Lang,2012,10.1130/G32733.1
@@ -295,6 +295,9 @@ USA,North America,29,-103,NA,Javelinoxylon multiporosum,Malvaceae?,Dicot,Angiosp
 USA,North America,36,-108,NA,Plataninium piercei,undetermined,Dicot,Angiosperm,0.14,Ma,-69.05,-72.1,-66,Kirtland Fm.,NA,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Platanoxylon piercei,Platanaceae?,Dicot,Angiosperm,0.1,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 18 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.8,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 20 and 5 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
+USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.2,Ma,-69.05,-72.1,-66,,,Laramidia,mineralized,Wheeler et al,1995,
+USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.3,Ma,-69.05,-72.1,-66,,,Laramidia,mineralized,Wheeler et al,1995,
+USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.25,Ma,-69.05,-72.1,-66,,,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Paraphyllanthoxylon anasazi?,undetermined,Dicot,Angiosperm,0.2,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 10 and W14 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Paraphyllanthoxylon anasazi?,undetermined,Dicot,Angiosperm,0.24,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 6 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.14,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 20 and 5 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
@@ -614,6 +617,27 @@ Ecuador,South America,-3,-80,NA,Agathoxylon sp.,Araucarioid,Conifer,Gymnosperm,0
 Chile,South America,-44,-72,NA,Agathoxylon resinosum,Araucarioid,Conifer,Gymnosperm,NA,Ma,-66,,,NA,Quiriquina Island,Elsewhere,,Torres & Biro?Bagoczky,1986,
 Chile,South America,-44,-72,NA,Agathoxylon pluriresinosum,Araucarioid,Conifer,Gymnosperm,NA,Ma,-66,,,NA,Quiriquina Island,Elsewhere,,Torres & Biro?Bagoczky,1986,
 Chile,South America,-30,-70,NA,Agathoxylon pichasquensis,Araucarioid,Conifer,Gymnosperm,NA,Ca-Ma,-72,-83.6,-66,NA,Pichasca-Ovalle,Elsewhere,,Torres & Rallo,1981,
-Argentina,South America,-48.6,-69.2,NA,Brachyoxylon baqueroensis,unknown,Conifer,Gymnosperm,0.1,late Ap,-113,,,Anfiteatro de Tico,,Elsewhere,mineralized,Vera and Cesari,2015,
-Argentina,South America,-48.7,-69.1,NA,Brachyoxylon baqueroensis,unknown,Conifer,Gymnosperm,0.1,late Ap,-113,,,Anfiteatro de Tico,,Elsewhere,mineralized,Vera and Cesari,2015,
+Argentina,South America,-48.6,-69.2,NA,Brachyoxylon baqueroensis,unknown,Conifer,Gymnosperm,0.1,Ap,-113,,,Anfiteatro de Tico,,Elsewhere,mineralized,Vera and Cesari,2015,
+Argentina,South America,-48.7,-69.1,NA,Brachyoxylon baqueroensis,unknown,Conifer,Gymnosperm,0.1,Ap,-113,,,Anfiteatro de Tico,,Elsewhere,mineralized,Vera and Cesari,2015,
 Argentina,South America,-71.1,-49.7,NA,Undetermined wood,unknown,Conifer,Gymnosperm,1.2,LK,-90,,,Mata Amarilla,Maria Elena Ranch petrified forest,Elsewhere,mineralized,Zamuner et al,2006,
+China,Asia,28.9,120.1,ZMNH M13189,Brachyoxylon zhouii,Araucarioid,Conifer,Gymnosperm,NA,Ap-Al,-114,-125,-103,Guantou Fm.,"Zhejiang Province, eastern China",Elsewhere,mineralized,Jiang et al,2020,10.1080/08912963.2020.1755282
+Argentina,South America,-42.55,-66.33,MPEF-PB 9911,Aextoxicoxylon kawasianus,unknown,Dicot,Angiosperm,0.04,Ca-Da,-66,,,Puntudo Chico Fm,Estancia María de las Nieves,Elsewhere,mineralized,Vera et al,2020,10.1016/j.cretres.2019.104315
+Argentina,South America,-42.55,-66.33,MPEF-PB 9912,Aextoxicoxylon kawasianus,unknown,Dicot,Angiosperm,0.045,Ca-Da,-66,,,Puntudo Chico Fm,Estancia María de las Nieves,Elsewhere,mineralized,Vera et al,2020,10.1016/j.cretres.2019.104315
+Argentina,South America,-42.55,-66.33,MPEF-PB 9913,Aextoxicoxylon kawasianus,unknown,Dicot,Angiosperm,0.06,Ca-Da,-66,,,Puntudo Chico Fm,Estancia María de las Nieves,Elsewhere,mineralized,Vera et al,2020,10.1016/j.cretres.2019.104315
+Argentina,South America,-43.35,-67.767,MPEF-PB 9891,Agathoxylon antarcticum,Araucarioid,Conifer,Gymnosperm,,Ca-Ma,-66,,,Puntudo Chico Fm,El Quiosco,Elsewhere,mineralized,Vera et al,2019,10.1016/j.cretres.2019.01.022
+Argentina,South America,-43.35,-67.767,MPEF-PB 9893,Brachyoxylon sp.,Araucarioid,Conifer,Gymnosperm,,Ca-Da,-66,,,Puntudo Chico Fm,El Quiosco,Elsewhere,mineralized,Vera et al,2019,10.1016/j.cretres.2019.01.022
+Argentina,South America,-43.35,-67.767,"MPEF-PB 9894,",Podocarpoxylon mazzonii,Podocarpoid,Conifer,Gymnosperm,,Ca-Da,-66,,,Puntudo Chico Fm,El Quiosco,Elsewhere,mineralized,Vera et al,2019,10.1016/j.cretres.2019.01.022
+Argentina,South America,-43.35,-68.75,Fig 3C,Undetermined wood,unknown,Conifer,Gymnosperm,0.8,Ap,-115,,,Los Adobes,Cañadón La Orientala,Elsewhere,mineralized,Vera et al,2020,10.1016/j.jsames.2020.102562 
+Argentina,South America,-43.35,-68.75,MPEF-PB 9914,Agathoxylon antarcticus,Araucarioid,Conifer,Gymnosperm,NA,Ap,-115,,,Los Adobes,Cañadón La Orientala,Elsewhere,mineralized,Vera et al,2020,10.1016/j.jsames.2020.102562 
+Argentina,South America,-43.35,-68.75,MPEF-PB 9915,Agathoxylon antarcticus,Araucarioid,Conifer,Gymnosperm,NA,Ap,-115,,,Los Adobes,Cañadón La Orientala,Elsewhere,mineralized,Vera et al,2020,10.1016/j.jsames.2020.102562 
+Argentina,South America,-43.35,-68.75,MPEF-PB 9916,Agathoxylon antarcticus,Araucarioid,Conifer,Gymnosperm,NA,Ap,-115,,,Los Adobes,Cañadón La Orientala,Elsewhere,mineralized,Vera et al,2020,10.1016/j.jsames.2020.102562 
+Mexico,North America,30.88,-109.53,IGM-SON1,Taxodioxylon cabullensis,Cupressoid,Conifer,Gymnosperm,0.1,Sa-Ma,-72,,,Packard Shale,Fronteras Sonora,Laramida,mineralized,Rios-Santos & Cevallos-Ferriz,2018,10.1017/S1755691018000245
+USA,North America,34,-107,UCM 40674,Paraphyllanthoxylon arizonense,unkonwn,Dicot,Angiosperm,0.52,Tu,-91.85,-93.9,-89.8,Moreno Hill Fm, Two Rocks Balanced locality New Mexico,Laramidia,mineralized,Chin et al,2019,10.1016/j.cretres.2019.01.017
+USA,North America,34,-107,UCM 40589,Herendeenoxylon zuniense,Ericales?,Dicot,Angiosperm,0.066,Tu,-91.85,-93.9,-89.8,Moreno Hill Fm,Balloon Hoodoo locality New Mexico,Laramidia,mineralized,Chin et al,2019,10.1016/j.cretres.2019.01.017
+USA,North America,34,-107,UCM 40590,Vasunum cretaceum,unkonwn,Dicot,Angiosperm,0.056,Tu,-91.85,-93.9,-89.8,Moreno Hill Fm,Balloon Hoodoo locality New Mexico,Laramidia,mineralized,Chin et al,2019,10.1016/j.cretres.2019.01.017
+USA,North America,33.13,-107.13,TXSTATE 1222,Laurinoxylon rennerae,Lauraceae,Dicot,Angiosperm,0.5,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1991-15/16,Laramidia,mineralized,Estrada-Ruiz et al,2018,10.1086/695503 
+USA,North America,33.13,-107.13,TXSTATE 1213,Turneroxylon newmexicoense ,Dilleniales,Dicot,Angiosperm,0.24,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1991-17,,mineralized,Estrada-Ruiz et al,2018,10.1086/695503 
+USA,North America,33.13,-107.13,TXSTATE 1202 ,Mcraeoxylon waddellii ,unkonwn,Dicot,Angiosperm,0.03,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1992-01,,mineralized,Estrada-Ruiz et al,2018,10.1086/695503 
+USA,North America,33.13,-107.13,TXSTATE 1205,Mcraeoxylon waddellii ,unkonwn,Dicot,Angiosperm,NA,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1992-01,,mineralized,Estrada-Ruiz et al,2018,10.1086/695503 
+USA,North America,33.13,-107.13,"TXSTATE 1214,",McRae Angiosperm Wood Type 1 ,unkonwn,Dicot,Angiosperm,0.21,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1991-13,,mineralized,Estrada-Ruiz et al,2018,10.1086/695503 
+USA,North America,33.13,-107.13,TXSTATE 1224,McRae Angiosperm Wood Type 1 ,unkonwn,Dicot,Angiosperm,NA,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1991-13,,mineralized,Estrada-Ruiz et al,2018,10.1086/695503 
