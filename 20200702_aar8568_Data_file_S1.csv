@@ -1,5 +1,5 @@
 Country,Continent,Latitude,Longitude,Specimen,Species,Affinity,Group,Category,Diameter,Stage,Age (Ma),Max (Ma),Min (Ma),Geology,Location,Region,Preservation,Author,Year,DOI
-Mexico,North America,30,-115.7,NA,Rosarioxylon bajacaliforniensis,Lauraceae,Dicot,Angiosperm,1.5,Ma,-66.1,-66.7,-65.5,Rosario,Baja California,Laramidia,Permineralized,Cevallo-Ferriz et al. 2021,10.1016/j.revpalbo.2021.104478
+Mexico,North America,30,-115.7,NA,Rosarioxylon bajacaliforniensis,Lauraceae,Dicot,Angiosperm,1.5,-66.1,-66.7,-65.5,Rosario,Baja California,Laramidia,Permineralized,Cevallo-Ferriz et al. 2021,10.1016/j.revpalbo.2021.104478
 Algeria,Africa,28,6,NA,Euphorbioxylon lefrancii,Euphorbiaceae? ,Dicot,Angiosperm,NA,LK,-82.75,-100.5,-65,?,NW of Fort Flatters,Elsewhere,mineralized,Boureau,1951,
 Sudan,Africa,14,29,NA,Cassinium dongolense,undetermined,Dicot,Angiosperm,0.15,Ca-Ma,-72.1,-83.6,-66,Wadi Howar,Sudan,Elsewhere,mineralized,Giraud and Lejal-Nicol,1989,
 Sudan,Africa,16,33,NA,Sladenioxylon sp.,Theaceae?,Dicot,Angiosperm,NA,Al-Ce,-100.5,-113,-93.9,Wadi Milk and Omdurma,Wadi Awatib north of Khartoum,Elsewhere,mineralized,Giraud et al.,1992,
