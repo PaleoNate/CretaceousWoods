@@ -1,13 +1,13 @@
 Country,Continent,Latitude,Longitude,Specimen,Species,Affinity,Group,Category,Diameter,Stage,Age (Ma),Max (Ma),Min (Ma),Geology,Location,Region,Preservation,Author,Year,DOI
 Mexico,North America,30,-115.7,NA,Rosarioxylon bajacaliforniensis,Lauraceae,Dicot,Angiosperm,1.5,Ma,-66.1,-66.7,-65.5,Rosario,Baja California,Laramidia,Permineralized,Cevallo-Ferriz et al.,2021,10.1016/j.revpalbo.2021.104478
-Algeria,Africa,28,6,NA,Euphorbioxylon lefrancii,Euphorbiaceae? ,Dicot,Angiosperm,NA,LK,-82.75,-100.5,-65,?,NW of Fort Flatters,Elsewhere,mineralized,Boureau,1951,
+Algeria,Africa,28,6,NA,Euphorbioxylon lefrancii,Euphorbiaceae?,Dicot,Angiosperm,NA,LK,-82.75,-100.5,-65,NA,NW of Fort Flatters,Elsewhere,mineralized,Boureau,1951,
 Sudan,Africa,14,29,NA,Cassinium dongolense,undetermined,Dicot,Angiosperm,0.15,Ca-Ma,-72.1,-83.6,-66,Wadi Howar,Sudan,Elsewhere,mineralized,Giraud and Lejal-Nicol,1989,
 Sudan,Africa,16,33,NA,Sladenioxylon sp.,Theaceae?,Dicot,Angiosperm,NA,Al-Ce,-100.5,-113,-93.9,Wadi Milk and Omdurma,Wadi Awatib north of Khartoum,Elsewhere,mineralized,Giraud et al.,1992,
-Egypt,Africa,27,28,NA,Ficoxylon sp.,Moraceae,Dicot,Angiosperm,NA,Ca,-77.85,-83.6,-72.1,Hefhuf Fm.,Farafra Oasis,Elsewhere,mineralized,Kamal,2003,
-Egypt,Africa,27,28,NA,Celastrinoxylon sp.,Celastraceae,Dicot,Angiosperm,NA,Ca,-77.85,-83.6,-72.1,Hefhuf Fm.,Farafra Depression Farafra Oasis,Elsewhere,mineralized,Kamal,2003,
-Chad,Africa,14,18,NA,Colaxylon coppensis,undetermined,Dicot,Angiosperm,NA,LK,-66,-72,-55,NA,Kirdimi Oasis,Elsewhere,mineralized,Koeniguer,1973,
-Chad,Africa,14,18,NA,Afzelioxylon furonis,undetermined,Dicot,Angiosperm,NA,LK,-66,-72,-55,NA,Kirdimi Oasis,Elsewhere,mineralized,Koeniguer,1973,
-Chad,Africa,14,18,NA,Myrtoxylon? kirdimiense,Myrtaceae?,Dicot,Angiosperm,NA,LK,-66,-72,-55,NA,Kirdimi Oasis,Elsewhere,mineralized,Koeniguer,1973,
+Egypt,Africa,27,28,NA,Ficoxylon sp.,Moraceae,Dicot,Angiosperm,NA,Ca,-77.85,-83.6,-72.1,Hefhuf Formation,Farafra Oasis,Elsewhere,mineralized,Kamal,2003,
+Egypt,Africa,27,28,NA,Celastrinoxylon sp.,Celastraceae,Dicot,Angiosperm,NA,Ca,-77.85,-83.6,-72.1,Hefhuf Formation,Farafra Depression Farafra Oasis,Elsewhere,mineralized,Kamal,2003,
+Chad,Africa,14,18,NA,Colaxylon coppensis,undetermined,Dicot,Angiosperm,NA,LK,-66,-72,-55,Dorotea Formation,Kirdimi Oasis,Elsewhere,mineralized,Koeniguer,1973,
+Chad,Africa,14,18,NA,Afzelioxylon furonis,undetermined,Dicot,Angiosperm,NA,LK,-66,-72,-55,Dorotea Formation,Kirdimi Oasis,Elsewhere,mineralized,Koeniguer,1973,
+Chad,Africa,14,18,NA,Myrtoxylon? kirdimiense,Myrtaceae?,Dicot,Angiosperm,NA,LK,-66,-72,-55,Dorotea Formation,Kirdimi Oasis,Elsewhere,mineralized,Koeniguer,1973,
 Egypt,Africa,24,24,NA,Proteoxylon chargeense,Proteaceae,Dicot,Angiosperm,NA,LK,-84.95,-93.9,-66,NA,Libya Egypt border,Elsewhere,,Krausel,1939,
 Egypt,Africa,28,29,NA,Celastrinoxylon sp.,Celastraceae,Dicot,Angiosperm,NA,Tu-Ma,-84.95,-93.9,-66,NA,NA,Elsewhere,,Krausel,1939,
 Egypt,Africa,28,29,NA,Celastrinoxylon celastroides,Celastraceae,Dicot,Angiosperm,NA,Tu-Ma,-84.95,-93.9,-66,NA,NA,Elsewhere,,Krausel,1939,
@@ -23,10 +23,10 @@ Antarctica,Antarctica,-62,-58,NA,Nothofagoxylon sp.,Nothofagaceae,Dicot,Angiospe
 Antarctica,Antarctica,-62,-58,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.05,Ca-Ma,-72.1,83.6,66,Half Three Point ,King George Island,Elsewhere,mineralized,Dutra & Batten,2000,
 Antarctica,Antarctica,-64,-57,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.1,Ca,-78,NA,NA,Snow Hill Island,"The Naze, James Ross Island",Elsewhere,,Francis & Poole,2002,10.1016/S0031-0182(01)00452-7
 Antarctica,Antarctica,-63,-57,NA,Undetermined wood,Undetermined,Dicot,Angiosperm,0.1,Ma,-66,NA,NA,Snow Hill Island,Vega Island,Elsewhere,mineralized,Francis & Poole,2002,10.1016/S0031-0182(01)00452-7
-Antarctica,Antarctica,-64,-56,NA,Undetermined wood,Undetermined,Dicot,Angiosperm,0.1,Ma,-66,NA,NA,Lopez de Bertodano ,Seymour Island,Elsewhere,mineralized,Francis & Poole,2002,10.1016/S0031-0182(01)00452-7
-Antarctica,Antarctica,-64,-56,NA,Nothofagoxylon scalariforme,Fagales,Dicot,Angiosperm,NA,Ma,-66,NA,NA,Lopez de Bertodano ,Seymour Island,Elsewhere,mineralized,Gothan,1908,
-Antarctica,Antarctica,-64,-56,NA,Laurinoxylon sp.,Lauraceae,Dicot,Angiosperm,NA,Ma,-66,NA,NA,Lopez de Bertodano ,Seymour Island,Elsewhere,mineralized,Gothan,1908,
-Antarctica,Antarctica,-64,-56,NA,Laurinoxylon uniseriatum,Lauraceae,Dicot,Angiosperm,NA,Ma,-66,NA,NA,Lopez de Bertodano ,Seymour Island,Elsewhere,mineralized,Gothan,1908,
+Antarctica,Antarctica,-64,-56,NA,Undetermined wood,Undetermined,Dicot,Angiosperm,0.1,Ma,-66,NA,NA,Lopez de Bertodano,Seymour Island,Elsewhere,mineralized,Francis & Poole,2002,10.1016/S0031-0182(01)00452-7
+Antarctica,Antarctica,-64,-56,NA,Nothofagoxylon scalariforme,Fagales,Dicot,Angiosperm,NA,Ma,-66,NA,NA,Lopez de Bertodano,Seymour Island,Elsewhere,mineralized,Gothan,1908,
+Antarctica,Antarctica,-64,-56,NA,Laurinoxylon sp.,Lauraceae,Dicot,Angiosperm,NA,Ma,-66,NA,NA,Lopez de Bertodano,Seymour Island,Elsewhere,mineralized,Gothan,1908,
+Antarctica,Antarctica,-64,-56,NA,Laurinoxylon uniseriatum,Lauraceae,Dicot,Angiosperm,NA,Ma,-66,NA,NA,Lopez de Bertodano,Seymour Island,Elsewhere,mineralized,Gothan,1908,
 Antarctica,Antarctica,-64,-56,NA,Sassafrasoxylon sp.,Lauraceaae,Dicot,Angiosperm,NA,Sa-Ca,-84,NA,NA,James Ross Basin,James Ross Basin,Elsewhere,,Poole,2000,
 Antarctica,Antarctica,-64,-56,NA,Nothofagoxylon scalariforme,Nothofagaceae,Dicot,Angiosperm,0.1,Ca-Ma,-72,NA,NA,Lopez de Bertodano,The Naze James Ross Island,Elsewhere,mineralized,Poole,2002,10.1071/SB01014
 Antarctica,Antarctica,-64,-58,NA,Nothofagoxylon scalariforme,Nothofagaceae,Dicot,Angiosperm,0.05,Ma,-69,-72,-66,Lopez de Bertodano,James Ross Island,Elsewhere,mineralized,Poole,2002,10.1071/SB01014
