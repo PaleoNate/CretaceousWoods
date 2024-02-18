@@ -264,11 +264,11 @@ USA,North America,39,-120,NA,Lardizabaloxylon cocculoides,Menispermaceae?,Dicot,
 USA,North America,39,-120,NA,Mulleroxylon eupomatioides,undetermined,Dicot,Angiosperm,0.03,Ca,-77.85,-83.6,-72.1,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1970,
 USA,North America,39,-120,NA,Magnoliaceoxylon panochensis,Magnoliaceae,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1970,
 USA,North America,37,-121,NA,Riboidoxylon cretacea,Grossulariaceae?,Dicot,Angiosperm,0.315,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 1. Del Puerto Canyon Stanislaus County CA,Laramidia,mineralized,Page,1970,
-USA,North America,37,-121,NA,Tetracentronites panochetris,Winteraceae?,Dicot,Angiosperm,0.025,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 1. Del Puerto Canyon Stanislaus County CA,Laramidia,mineralized,Page,1968,
-USA,North America,37,-121,NA,Plataninium platanoides,Platanaceae?,Dicot,Angiosperm,0.045,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1968,
-USA,North America,37,-121,NA,Plataninium californicum,Platanaceae?,Dicot,Angiosperm,0.06,Ma,-69.05,-72.1,-66,Panoche Fm.,Locality 2a. Black Gulch Page Locality 1. Del Puerto Canyon Stanislaus,Laramidia,mineralized,Page,1968,
-USA,North America,39,-120,NA,Ulminium pattersonensis,Lauraceaae,Dicot,Angiosperm,0.02,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1967,
-USA,North America,34,-107,NA, Paraphyllanthoxylon sp.,undetermined,Dicot,Angiosperm,2,Ca,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Parrott et al,2013,
+USA,North America,37,-121,NA,Tetracentronites panochetris,Winteraceae?,Dicot,Angiosperm,0.025,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 1. Del Puerto Canyon Stanislaus County CA,Laramidia,mineralized,Page,1968,DOI
+USA,North America,37,-121,NA,Plataninium platanoides,Platanaceae?,Dicot,Angiosperm,0.045,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1968,DOI
+USA,North America,37,-121,NA,Plataninium californicum,Platanaceae?,Dicot,Angiosperm,0.06,Ma,-69.05,-72.1,-66,Panoche Fm.,Locality 2a. Black Gulch Page Locality 1. Del Puerto Canyon Stanislaus,Laramidia,mineralized,Page,1968,DOI
+USA,North America,39,-120,NA,Ulminium pattersonensis,Lauraceaae,Dicot,Angiosperm,0.02,Ma,-69.05,-72.1,-66,Panoche Fm.,Page Locality 2a. Black Gulch Stanislaus County CA,Laramidia,mineralized,Page,1967,DOI
+USA,North America,34,-107,NA,Paraphyllanthoxylon sp.,undetermined,Dicot,Angiosperm,2,Ca,-74,-76.5,-72.5,McRae,NM,Laramidia,mineralized,Parrott et al,2013,DOI
 Mexico,North America,32,-101,NA,Paraphyllanthoxylon sp.,undetermined,Dicot,Angiosperm,0.3,Ma,-77.85,-83.6,-72.1,NA,NA,Laramidia,mineralized,Peralta-Medina and Falcon-Lang,2012,10.1130/G32733.1
 Canada,North America,NA,NA,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.1,Ca-Ma,-72.1,-83.6,-66,NA,NHM London,Elsewhere,mineralized,Peralta-Medina and Falcon-Lang,2012,10.1130/G32733.1
 USA,North America,37,-104,NA,Platanus sp.,Platanaceae?,Dicot,Angiosperm,0.01,LK,-72,NA,NA,Vermejo Fm.,Trinidad Colorado,Laramidia,NA,Peralta-Medina and Falcon-Lang,2012,10.1130/G32733.1
@@ -278,23 +278,23 @@ USA,North America,33,-100,NA,Aplectotremas,undetermined,Dicot,Angiosperm,0.1,Al,
 Canada,North America,50,-125,NA,Atli morinii,Menispermaceae?,Dicot,Angiosperm,0.03,Ca,-75.5,-77,-74,Nanaimo,Hornby Island,Laramidia,mineralized,Smith et al,2013,10.1086/669925
 USA,North America,42,-111,NA,Paraphyllanthoxylon idahoense,undetermined,Dicot,Angiosperm,0.4,Ce-Tu,-93.9,-100.5,-89.8,NA,Wayan Idaho,Laramidia,mineralized,Spackman,1948,
 USA,North America,34,-107,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.3,Tu,-91.85,-93.9,-89.8,Moreno Hill Fm.,The Balloon Hoodoo Two Rocks Balanced and Glass Log localities,Laramidia,mineralized,Sweeney et al,2009,10.1016/j.coal.2009.04.001
-USA,North America,39,-111,NA,Paraphyllanthoxylon utahense,Phyllanthaceae? Lauraceae?,Dicot,Angiosperm,0.01,Al,-104.5,-113,-100.5,Cedar Mountain Fm.,Thayne et al localities 1 2 6 & 9 UT,Laramidia,mineralized,Thayne et al,1983,
-USA,North America,39,-111,NA,Icacinoxylon pittiense,Icacinaceae,Dicot,Angiosperm,0.01,Al,-104.5,-113,-100.5,Cedar Mountain Fm.,9 miles (5.6 km) east of Ferron UT,Laramidia,mineralized,Tidwell & Thayne,1985,
+USA,North America,39,-111,NA,Paraphyllanthoxylon utahense,Phyllanthaceae? Lauraceae?,Dicot,Angiosperm,0.01,Al,-104.5,-113,-100.5,Cedar Mountain Fm.,Thayne et al localities 1 2 6 & 9 UT,Laramidia,mineralized,Thayne et al,1983,DOI
+USA,North America,39,-111,NA,Icacinoxylon pittiense,Icacinaceae,Dicot,Angiosperm,0.01,Al,-104.5,-113,-100.5,Cedar Mountain Fm.,9 miles (5.6 km) east of Ferron UT,Laramidia,mineralized,Tidwell & Thayne,1985,DOI
 USA,North America,29,-103,NA,Sabinoxylon wicki,Fagaceae?,Dicot,Angiosperm,0.01,Ca-Ma,-72.1,-83.6,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler,2009,10.1163/22941932-90000220
-USA,North America,29,-103,NA,Javelinoxylon multiporosum,Malvaceae?,Dicot,Angiosperm,0.01,Ca-Ma,-72.1,-83.6,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler,1994,
-USA,North America,29,-103,NA,Paraphyllanthoxylon anazasii,Euphorbiaceae? Lauraceae?,Dicot,Angiosperm,0.56,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Paraphyllanthoxylon anazasii,Euphorbiaceae? Lauraceae?,Dicot,Angiosperm,0.36,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Bombacoxylon sp.,Malvaceae?,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Metcalfeoxylon kirtlandense,undetermined,Dicot,Angiosperm,1.11,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Pageoxylon sp.,undetermined,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Platanoid/ Icacinoid sp.,Platanaceae?,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Agujoxylon olacaceoides,Olacaceae?,Dicot,Angiosperm,1.11,Ca-Ma,-72.1,-83.6,-66,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Baasoxylon parenchymatosum,Malvaceae?,Dicot,Angiosperm,0.7,Ma,-69.05,-72.1,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Gassonoxylon araliosum,undetermined,Dicot,Angiosperm,0.01,Ma,-69.05,-72.1,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.01,Ma,-69.05,-72.1,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,
-USA,North America,29,-103,NA,Javelinoxylon multiporosum,Malvaceae?,Dicot,Angiosperm,0.7,Ca-Ma,-72.1,-83.6,-66,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler et al,1994,
-USA,North America,36,-108,NA,Plataninium piercei,undetermined,Dicot,Angiosperm,0.14,Ma,-69.05,-72.1,-66,Kirtland Fm.,NA,Laramidia,mineralized,Wheeler et al,1995,
-USA,North America,36,-108,NA,Platanoxylon piercei,Platanaceae?,Dicot,Angiosperm,0.1,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 18 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
+USA,North America,29,-103,NA,Javelinoxylon multiporosum,Malvaceae?,Dicot,Angiosperm,0.01,Ca-Ma,-72.1,-83.6,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler,1994,DOI
+USA,North America,29,-103,NA,Paraphyllanthoxylon anazasii,Euphorbiaceae? Lauraceae?,Dicot,Angiosperm,0.56,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Paraphyllanthoxylon anazasii,Euphorbiaceae? Lauraceae?,Dicot,Angiosperm,0.36,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Bombacoxylon sp.,Malvaceae?,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Metcalfeoxylon kirtlandense,undetermined,Dicot,Angiosperm,1.11,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Pageoxylon sp.,undetermined,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Platanoid/ Icacinoid sp.,Platanaceae?,Dicot,Angiosperm,0.01,Ca,-77.85,-83.6,-72.1,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Agujoxylon olacaceoides,Olacaceae?,Dicot,Angiosperm,1.11,Ca-Ma,-72.1,-83.6,-66,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Baasoxylon parenchymatosum,Malvaceae?,Dicot,Angiosperm,0.7,Ma,-69.05,-72.1,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Gassonoxylon araliosum,undetermined,Dicot,Angiosperm,0.01,Ma,-69.05,-72.1,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Undetermined wood,undetermined,Dicot,Angiosperm,0.01,Ma,-69.05,-72.1,-66,Javelina Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler & Lehmann,2000,DOI
+USA,North America,29,-103,NA,Javelinoxylon multiporosum,Malvaceae?,Dicot,Angiosperm,0.7,Ca-Ma,-72.1,-83.6,-66,Aguja Fm.,Big Bend National Park TX,Laramidia,mineralized,Wheeler et al,1994,DOI
+USA,North America,36,-108,NA,Plataninium piercei,undetermined,Dicot,Angiosperm,0.14,Ma,-69.05,-72.1,-66,Kirtland Fm.,NA,Laramidia,mineralized,Wheeler et al,1995,DOI
+USA,North America,36,-108,NA,Platanoxylon piercei,Platanaceae?,Dicot,Angiosperm,0.1,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 18 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,DOI
 USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.8,Ma,-69.05,-72.1,-66,Kirtland Fm.,Locality W 20 and 5 San Juan Basin NM,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.2,Ma,-69.05,-72.1,-66,,,Laramidia,mineralized,Wheeler et al,1995,
 USA,North America,36,-108,NA,Paraphyllanthoxylon arizonense,undetermined,Dicot,Angiosperm,0.3,Ma,-69.05,-72.1,-66,,,Laramidia,mineralized,Wheeler et al,1995,
@@ -581,7 +581,7 @@ Argentina,South America,-40,-67,NA,Podocarpoxylon garciae,Podocarpoid,Conifer,Gy
 Argentina,South America,-40,-67,NA,Undetermined wood,unknown,Conifer,Gymnosperm,0.8,Ca-Ma,-72,-83.6,-66,Allen Fm.,Rio Negro Province,Elsewhere,,Del Fueyo,1998,
 Argentina,South America,-40,-67,NA,Undetermined wood,unknown,Conifer,Gymnosperm,0.8,Ca-Ma,-72,-83.6,-66,Allen Fm.,Rio Negro Province,Elsewhere,,Del Fueyo,1998,
 Argentina,South America,-45,-69,NA,Araucaria grandifolia,Araucarioid,Conifer,Gymnosperm,0.01,Al,-105,-107,-101,Punta del Barco,Estancia el Verano Meseta Baquero,Elsewhere,,Del Fueyo & Archangelsky,2002,
-Brazil,South America,-12,-56,NA,Agathoxylon camponovensis,Araucarioid,Conifer,Gymnosperm,0.01,Ap,-120,-125,-113,NA,Matto Grosso,Elsewhere,NA,Dolianiti,1948,
+Brazil,South America,-12,-56,NA,Agathoxylon camponovensis,Araucarioid,Conifer,Gymnosperm,0.01,Ap,-120,-125,-113,,Matto Grosso,Elsewhere,NA,Dolianiti,1948,
 Argentina,South America,-72,-50,NA,Taxodioxylon sp.1,unknown,Conifer,Gymnosperm,0.1,Ca-Ma,-72.1,-78,-69,Cerro Fortaleza,Austral (Magellan) Basin,Elsewhere,mineralized,Egerton et al,2016,
 Argentina,South America,-72,-50,NA,Taxodioxylon sp.1,unknown,Conifer,Gymnosperm,0.1,Ca-Ma,-72.1,-78,-69,Cerro Fortaleza,Austral (Magellan) Basin,Elsewhere,mineralized,Egerton et al,2016,
 Argentina,South America,-72,-50,NA,Podocarpoxylon sp.,unknown,Conifer,Gymnosperm,0.1,Ca-Ma,-72.1,-78,-69,Cerro Fortaleza,Austral (Magellan) Basin,Elsewhere,mineralized,Egerton et al,2016,
@@ -595,10 +595,10 @@ Argentina,South America,-38,-69,NA,Baieroxylon patagonicum,Ginkgo,Ginkgo,Gymnosp
 Argentina,South America,-38,-68,NA,Circoporoxylon krauseli,Podocarpoid,Conifer,Gymnosperm,0.2,Ce,-90,,,Huincul Fm.,Cerros Colorados Neuquen,Elsewhere,mineralized,Matinez & Lutz,2007,
 Argentina,South America,-38,-68,NA,Circoporoxylon krauseli,Podocarpoid,Conifer,Gymnosperm,0.2,Ce,-90,,,Huincul Fm.,Cerros Colorados Neuquen,Elsewhere,mineralized,Matinez & Lutz,2007,
 Argentina,South America,NA,NA,NA,Agathoxylon ozhuanum,Araucarioid,Conifer,Gymnosperm,NA,K,NA,,,NA,NA,Elsewhere,mineralized,Nishida et al,1992,
-Brazil,South America,-12,-56,NA,Agathoxylon camponovensis,Araucarioid,Conifer,Gymnosperm,NA,EK,-120,,,NA,Matto Grosso,Elsewhere,,Oliveira,1936,
-Argentina,South America,-40,-67,NA,Brunoa anzulovichii,Cycad,Cycadeoid,Gymnosperm,NA,LK,-72,,,NA,Rio Negro Province,Elsewhere,,Petriella,1978,
-Argentina,South America,-40,-67,NA,Bororoa andreisii,Cycad,Cycadeoid,Gymnosperm,NA,LK,-72,,,NA,Rio Negro Province,Elsewhere,,Petriella,1978,
-Peru,South America,-5,-80,NA,Metapodocarpoxylon sp.,Podocarpoid,Conifer,Gymnosperm,NA,Al,-106,-113,-100.9,NA,Lancones 99 km of the border N of Peru,Elsewhere,,Philippe et al,2003,
+Brazil,South America,-12,-56,NA,Agathoxylon camponovensis,Araucarioid,Conifer,Gymnosperm,NA,EK,-120,,,,Matto Grosso,Elsewhere,,Oliveira,1936,
+Argentina,South America,-40,-67,NA,Brunoa anzulovichii,Cycad,Cycadeoid,Gymnosperm,NA,LK,-72,,,,Rio Negro Province,Elsewhere,,Petriella,1978,
+Argentina,South America,-40,-67,NA,Bororoa andreisii,Cycad,Cycadeoid,Gymnosperm,NA,LK,-72,,,,Rio Negro Province,Elsewhere,,Petriella,1978,
+Peru,South America,-5,-80,NA,Metapodocarpoxylon sp.,Podocarpoid,Conifer,Gymnosperm,NA,Al,-106,-113,-100.9,,Lancones 99 km of the border N of Peru,Elsewhere,,Philippe et al,2003,
 Ecuador,South America,-3,-80,NA,Metapodocarpoxylon sp.,Podocarpoid,Conifer,Gymnosperm,NA,Al,-106,-113,-100.9,Ciano Fm.,Puyango,Elsewhere,,Philippe et al,2003,
 Ecuador,South America,-3,-80,NA,Metapodocarpoxylon sp.,Podocarpoid,Conifer,Gymnosperm,NA,Al,-106,-113,-100.9,Ciano Fm.,Puyango,Elsewhere,,Philippe et al,2003,
 Ecuador,South America,-3,-80,NA,Metapodocarpoxylon ap.,Podocarpoid,Conifer,Gymnosperm,NA,Al,-106,-113,-100.9,Ciano Fm.,Puyango,Elsewhere,,Philippe et al,2003,
@@ -644,6 +644,57 @@ USA,North America,33.13,-107.13,"TXSTATE 1214,",McRae Angiosperm Wood Type 1,unk
 USA,North America,33.13,-107.13,TXSTATE 1224,McRae Angiosperm Wood Type 1,unknown,Dicot,Angiosperm,NA,Ca,-74,-76.5,-72.5,McRae Fm,Texas State University Paleobotanical Locality  1991-13,,Laramidiamineralized,Estrada-Ruiz et al,2018,10.1086/695503 
 Tibet,Asia,31.36,91.02,specimen,Brachyoxylon lalongense,Cheirolepidiaceae,Conifer,Gymnosperm,0.2,Ap,-115,-113,-111,Duoni Formation,Lalong Village,Elsewhere,mineralized,Yang and Li,2022,10.1016/j.cretres.2021.105064
 Italy,Europe,46.5916,11.8208,Vienna 2010/0095/0001,Agathoxylon sp.,Araucarioid,Conifer,Gymnosperm, 0.2,Al,-106,-107,–105,Puez Formation,Col de Puez,Elsewhere,mineralized,Kustatscher et al,2012,10.1016/j.cretres.2013.01.002
-Canada,North America,50.6058,-127.6569,NA,NA,NA,Conifer,Gymnosperm,0.04,Ha,-136,-140,-135,Longarm Formation equivalent,Apple Bay,Laramidia,mineralized,Mustoe and Beard,2021,10.3390/geosciences11020038
+Canada,North America,50.6058,-127.6569,NA,NA,NA,Conifer,Gymnosperm,0.04,Va,-136,-140,-135,Longarm Formation equivalent,Apple Bay,Laramidia,mineralized,Mustoe and Beard,2021,10.3390/geosciences11020038
 Brazil,South America,-7.266,-39.082,unknown,unknown,unknown,Conifer,Gymnosperm,1.7,Be,-145,-149,-140,Missão Velha Formation,Grota Funda outcrop,Elsewhere,mineralized,Fambrini et al,2022,10.2139/ssrn.4147731
-USA,North America,40.464,-122.609,HPH 218-233,unknown,Pinoid,Conifer,Gymnosperm,0.51,Ba,-126,-130,-120,Lower Chickabally Budden Canyon Formation,North Fork Cottonwood Creek,Laramidia,mineralized,Burnett et al,2016,
+USA,North America,40.464,-122.609,HPH 218-233,unknown,Pinoid,Conifer,Gymnosperm,0.51,Ba,-125,-130,-120,Lower Chickabally Budden Canyon Formation,North Fork Cottonwood Creek,Laramidia,mineralized,Burnett et al.,2016,DOI
+China,Asia,LAT,LONG,SPECIMEN,Ginkgoxylon chinense,Ginkgoaceae,Ginkgo,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Zhang et al.,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Araucarioxylon batuense,Araucarioid,Conifer,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Duan,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Araucarioxylon jimoense,Araucarioid,Conifer,Gymnosperm,,,,,,unknown,Jimo of Shandong,Elsewhere,Preservation,Zhang and Wang,1997,DOI
+China,Asia,LAT,LONG,SPECIMEN,Araucarioxylon sidugawaense,Araucarioid,Conifer,Gymnosperm,,Ap,-117,,,Yixian Fm.,Yixian of Liaoning,Elsewhere,Preservation,Author,Year,DOI
+China,Asia,LAT,LONG,SPECIMEN,Araucarioxylon xinchangense,group,Conifer,Gymnosperm,,Ap,-117,,,Guantou Fm.,Xinchang of Zhejiang,Elsewhere,Preservation,Author,Year,DOI
+China,Asia,LAT,LONG,SPECIMEN,Brachyoxylon sp.,,Conifer,Gymnosperm,,,,,,unknown,Lalong of Tibet,Elsewhere,Preservation,Vozenin-Serra and Pons,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Cedroxylon jinshaense,Pinoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Cupressnioxylon baomiqiaoense,Cupressoid,Conifer,Gymnosperm,,,,,,Yunshan Fm.,Baoqing of Heilongjiang,Elsewhere,Preservation,Zheng and Zhang,1982,DOI
+China,Asia,LAT,LONG,SPECIMEN,Glyptostroboxylon xidapoense,Cupressoid,Conifer,Gymnosperm,,Ap,-117,,,Muling Fm.,Jixi of Heilongjiang,Elsewhere,Preservation,Zheng and Zhang,1982,DOI
+China,Asia,LAT,LONG,SPECIMEN,Lhassoxylon aptianum,group,Conifer,Gymnosperm,,,,,,,Lhasa of Tibet,Elsewhere,Preservation,Vozenin-Serra and Pons,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Phyllocladoxylon densum,Podocarpoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Phyllocladoxylon eboracense,Podocarpoid,Conifer,Gymnosperm,,Ha,-129,,,Huolinhe Fm.,Jarud of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Phyllocladoxylon hailaerense,Podocarpoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Phyllocladoxylon heizyoense,Podocarpoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Phyllocladoxylon xinqiuensis,Podocarpoid,Conifer,Gymnosperm,,Ap,-117,,,Fuxin Fm.,Fuxin of Liaoning,Elsewhere,Preservation,Cui and Liu,1992,DOI
+China,Asia,LAT,LONG,SPECIMEN,Piceoxylon priscum,Pinoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Piceoxylon zaocishanense,Pinoid,Conifer,Gymnosperm,,Ba,-123,,,Yixian Fm.,Yixian of Liaoning,Elsewhere,Preservation,Ding,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Podocarpoxylon dacrydioides,group,Conifer,Gymnosperm,,Ha,-129,,,Huolinhe Fm.,Huolinhe of Inner Mongolia,Elsewhere,Preservation,Cui,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protocedroxylon orientale,group,Conifer,Gymnosperm,,Ha,-129,,,Huolinhe Fm.,Jarud of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protocupressinoxylon mishanense,Cupressoid,Conifer,Gymnosperm,,Ba,-123,,,Chengzihe Fm.,Mishan of Heilongjiang,Elsewhere,Preservation,Zheng and Zhang,1982,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protoglyptostroboxylon giganteum,Cupressoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protoglyptostroboxylon yiminense,Cupressoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protophyllocladoxylon franconicum,Podocarpoid,Conifer,Gymnosperm,,Ba,-123,,,Yixian Fm,Yixian of Liaoning,Elsewhere,Preservation,Ding,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protophyllocladoxylon haizhouense,Podocarpoid,Conifer,Gymnosperm,,Ap,-117,,,Fuxin Fm.,Fuxin of Liaoning,Elsewhere,Preservation,Ding et al.,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopiceoxylon chaoyangense,Pinoid,Conifer,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Shenyang,,Elsewhere,Preservation,Duan,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopiceoxylon dakotense,Pinoid,Conifer,Gymnosperm,,,,,,,Benxi of Liaoning,Elsewhere,Preservation,Sze et al.,1963,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopiceoxylon mohense,Pinoid,Conifer,Gymnosperm,,,,,,Jiufengshan Fm.,Mohe of Heilongjiang,Elsewhere,Preservation,Ding,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopiceoxylon yizhouense,Pinoid,Conifer,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Duan et al.,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopodocarpoxylon arnatum,Podocarpoid,Conifer,Gymnosperm,,Ap,-120,-127,-113,Huashan Gr.,Mishan of Heilongjiang,Elsewhere,Preservation,Zheng and Zhang,1982,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopodocarpoxylon jingangshanense,Podocarpoid,Conifer,Gymnosperm,,Ba,-123,,,Yixian Fm.,Yixian of Liaoning,Elsewhere,Preservation,Ding,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopodocarpoxylon lalongense,Podocarpoid,Conifer,Gymnosperm,,,,,,,Lalong of Tibet,Elsewhere,Preservation,Vozenin-Serra and Pons,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protopodocarpoxylon orientale,Podocarpoid,Conifer,Gymnosperm,,,,,,,Linzhu of Tibet,Elsewhere,Preservation,Vozenin-Serra and Pons,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Protosciadopityoxylon liaoningense,Sciadopityoid,Conifer,Gymnosperm,,-117,,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Zhang et al.,1999,DOI
+China,Asia,LAT,LONG,SPECIMEN,Sciadopityoxylon liaoningenses,Sciadopityoid,Conifer,Gymnosperm,,Ap,-117,,,Fuxin Fm.,Fuxin of Liaoning,Elsewhere,Preservation,Ding et al.,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Taxodioxylon albertense,Cupressoid,Conifer,Gymnosperm,,,,,,Yingcheng Fm.,Changchun of Jilin,Elsewhere,Preservation,Li and Oh,2007,DOI
+China,Asia,LAT,LONG,SPECIMEN,Taxodioxylon pseudoalbertense,Cupressoid,Conifer,Gymnosperm,,,,,,Yingcheng Fm.,Changchun of Jilin,Elsewhere,Preservation,Li and Wu,2007,DOI
+China,Asia,LAT,LONG,SPECIMEN,Taxodioxylon szei,Cupressoid,Conifer,Gymnosperm,,,,,,Muling,Jixi of Heilongjiang,Elsewhere,Preservation,Yang and Zheng,2003,DOI
+China,Asia,LAT,LONG,SPECIMEN,Taxoxylon liaoxiense,Taxoid,Conifer,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Duan,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Taxoxylon pulchrum,Taxoid,Conifer,Gymnosperm,,Ba,-123,,,Yimin Fm.,Ewenki of Inner Mongolia,Elsewhere,Preservation,He,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon fuxinense,NA,Conifer,Gymnosperm,,STAGE,-123,,,Fuxin Fm.,Fuxin of Liaoning,Elsewhere,Preservation,Ding et al.,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon hopeiense,NA,Conifer,Gymnosperm,,Ba,-123,,,Yixian Fm.,Yixian of Liaoning,Elsewhere,Preservation,Ding et al.,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon huolinhense,NA,Conifer,Gymnosperm,1.0,Ha,-129,,,Huolinhe Fm.,Huolinhe Coal Mine of Inner Mongolia,Elsewhere,Preservation,Yang Wang and Zhang,2013,10.1016/j.palaeo.2013.05.019
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon latiporusum,NA,Conifer,Gymnosperm,,Ba,-123,,,Yixian Fm.,Yixian of Liaoning,Elsewhere,Preservation,Ding et al.,2000,DOI
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon liaoningense,NA,Conifer,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Duan et al.,1995,DOI
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon peideense,NA,Conifer,Gymnosperm,,,,,,,Mishan of Heilongjiang,Elsewhere,Preservation,Zheng and Zhang,1982,DOI
+China,Asia,LAT,LONG,SPECIMEN,Xenoxylon yixianense,NA,Conifer,Gymnosperm,,Ap,-117,,,Shahai Fm.,Yixian of Liaoning,Elsewhere,Preservation,Zhang and Shang,1996,DOI
+China,Asia,LAT,LONG,SPECIMEN,Keteleeria fortunei,Pinoid,Conifer,Gymnosperm,,,,,,,Xinyang of Henan,Elsewhere,Preservation,Yang et al.,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Pinus henanensis,Pinoid,Conifer,Gymnosperm,,,,,,,Xinyang of Henan,Elsewhere,Preservation,Yang et al.,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Podocarpus nagi,Podocarpoid,Conifer,Gymnosperm,,,,,,,Xinyang of Henan,Elsewhere,Preservation,Yang et al.,1990,DOI
+China,Asia,LAT,LONG,SPECIMEN,Glyptostrobus pensilis,Cuprssoid,Conifer,Gymnosperm,,,,,,,Xinyang of Henan,Elsewhere,Preservation,Yang et al.,1990,DOI
+China,Asia,47.96,126,Geological Museum of China P3125,Platanoxylon sp.,Plantanaceae,dicot,Angiosperm,0.06,Ce,-98,-99.5,-66,Quantou Fm to Mingshui Fm,Henan Town Keshan County,Elsewhere,mineralized,Cheng et al.,2020,10.1163/22941932-bja10035
